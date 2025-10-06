@@ -23,7 +23,7 @@ The model classifies 10 Khmer letters with high accuracy, and all predictions ar
 | CHHO  | ឈ         |
 | KHO   | ឃ         |
 
-Dataset: You can use your own collected dataset or existing ones from sources like KHMER OCR datasets
+- **Dataset:** You can use your own collected dataset or existing ones from sources like KHMER OCR datasets
  or Kaggle. Images should be grayscale, preferably normalized to a fixed size (e.g., 48 x 48).
 - **Framework:** PyTorch  
 - **Model:** Custom CNN  
